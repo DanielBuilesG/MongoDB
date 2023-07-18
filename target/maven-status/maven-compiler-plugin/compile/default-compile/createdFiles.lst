@@ -1,0 +1,5 @@
+com\mycompany\mongodemo\AccessingDataMongodbApplication.class
+com\mycompany\mongodemo\CustomerRepository.class
+com\mycompany\mongodemo\Customer.class
+com\mycompany\mongodemo\MongoClientConnectionExample.class
+com\mycompany\mongodemo\MongoDemo.class
